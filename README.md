@@ -1,6 +1,6 @@
 # 🛳️ Titanic Dataset - Exploratory Data Analysis (EDA)
 
-This project explores the famous Titanic dataset using **Python**, **Pandas**, **Seaborn**, and **Matplotlib** to extract insights, visualize patterns, and understand the relationships between different features.
+This task explores the famous Titanic dataset using **Python**, **Pandas**, **Seaborn**, and **Matplotlib** to extract insights, visualize patterns, and understand the relationships between different features.
 
 ---
 
